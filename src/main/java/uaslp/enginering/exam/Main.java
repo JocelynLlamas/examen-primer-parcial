@@ -63,7 +63,7 @@ public class Main {
 
         System.out.println("Total rooms: " + rooms.size());
         System.out.println();
-        System.out.println("Room statuses");
+        System.out.println("Room status");
         for (Room room : rooms) {
             System.out.println(room.getNumber() + " - " + room.getStatus());
         }

@@ -1,11 +1,12 @@
 package uaslp.enginering.exam.model;
-
+import uaslp.enginering.exam.model.Reservation;
 import java.util.ArrayList;
 
 public class Hotel {
     private ArrayList<Reservation> reservations;
 
 
+    
     public Hotel() {
         reservations = new ArrayList<>();
     }
