@@ -6,7 +6,7 @@ public class Hotel {
     private ArrayList<Reservation> reservations;
 
 
-    
+
     public Hotel() {
         reservations = new ArrayList<>();
     }
@@ -25,4 +25,8 @@ public class Hotel {
     public ArrayList<Reservation> getReservations() {
         return reservations;
     }
+
+	public String getName() {
+		return null;
+	}
 }
