@@ -1,12 +1,13 @@
 package uaslp.enginering.exam;
 
-import uaslp.enginering.exam.model.Guest;
+//Imports
 import uaslp.enginering.exam.model.Hotel;
 import uaslp.enginering.exam.model.Reservation;
 import uaslp.enginering.exam.model.Room;
 import uaslp.enginering.exam.model.RoomStatus;
-
+import uaslp.enginering.exam.model.Guest;
 import java.util.ArrayList;
+
 
 public class Main {
 

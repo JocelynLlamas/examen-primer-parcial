@@ -10,8 +10,8 @@
     Encapsulamiento
 1. Un objeto tiene estado y comportamiento. Explica a qué se refieren estos dos conceptos (estado y comportamiento).
     > Tu respuesta 
-    estado: Valores de los atributos en un tiempo dado
-    comportamiento:
+    estado: Valores de los atributos en un tiempo dado.
+    comportamiento: Son los métodos.
 1. ¿Con qué palabra reservada de java hacemos que un atributo o un método pernezcan a la clase y no al objeto?
     > Tu respuesta 
     Static
