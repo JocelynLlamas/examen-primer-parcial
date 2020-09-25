@@ -4,6 +4,8 @@ public class Guest {
     
     private String name;
     private String adress;
+    private Sting phoneNum;
+    private String country;
 
     public Guest() {
 
@@ -29,9 +31,14 @@ public class Guest {
     public String getAdress() {
         return adress;
     }
+    
+    public void setCountry(String country){
+        this.country = country;
+    }
 
-	public void setAddress(String string) {
-	}
+    public void setPhoneNumber(String phone){
+        this.phone = phone;
+    }
 
 
 }
